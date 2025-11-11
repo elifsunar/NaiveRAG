@@ -6,8 +6,6 @@ The project illustrates the core principles of RAG: retrieving relevant context 
 
 ---
 
-## Overview
-
 In a **Naive or 2-Step RAG architecture**, the workflow is divided into two main stages:
 
 1. **Retrieval** — The system searches for semantically relevant text chunks from a knowledge base using vector similarity.
